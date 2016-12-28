@@ -1,0 +1,3 @@
+first_doctrine_homepage:
+    path:     /
+    defaults: { _controller: FirstDoctrineBundle:Default:index }
